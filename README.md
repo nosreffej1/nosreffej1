@@ -7,13 +7,25 @@
  <a href = "mailto:jeffersongabriel.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
-![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=nosreffej1&show_icons=true&theme=highcontrast)
-<img height="190em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nosreffej1&layout=compact&langs_count=7&theme=highcontrast"/>
-
-## 👨‍💻 Tecnologias
-
-<br>
-
- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
- ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div style="display: inline_block"><br>
+    <img align="center" alt="Sa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Sa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+     <img align="center" alt="Sa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+    <p align="center"> <br>
+    
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="160"
+      src="https://github-readme-stats.vercel.app/api?username=nosreffej1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+    />
+    </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+         height="160"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nosreffej1&layout=compact&langs_count=7&theme=dracula"
+    />
+  </a>
+</p>
