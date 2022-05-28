@@ -14,14 +14,14 @@
 </div>
     <p align="center"> <br>
     
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/nosreffej1/github-readme-stats">
     <img
       align="center"
       height="160"
       src="https://github-readme-stats.vercel.app/api?username=nosreffej1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
     />
     </a>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
+      <a href="https://github.com/nosreffej1/github-readme-stats">
     <img
       align="center"
          height="160"
