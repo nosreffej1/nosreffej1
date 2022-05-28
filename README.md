@@ -25,7 +25,7 @@
     <img
       align="center"
          height="160"
-     
+       <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nosreffej1&layout=compact&langs_count=7&theme=dracula"/>
     />
   </a>
 </p>
