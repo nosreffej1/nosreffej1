@@ -3,7 +3,7 @@
 
 
 <a href = "https://www.instagram.com/jeffcodes_/?hl=pt-br"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target= "_blank"></a>
- <a target= "_blank" href = "https://www.linkedin.com/in/jefferson-gabriel-50282021b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a target= "_blank" href = "https://www.linkedin.com/in/jefferson-gabriel-50282021b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a target= "_blank" href = "mailto:jeffersongabriel.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
  
 
