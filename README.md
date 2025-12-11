@@ -69,17 +69,17 @@ Atualmente atuo com **PHP / Yii2, JavaScript e automação de processos com BPMN
 > *(Substitua os links abaixo pelos repositórios/páginas reais quando subir os projetos)*
 
 - 🔵 **Portfólio pessoal** – página para apresentar meus projetos, experiências e serviços  
-  `->` [Ver online](https://nosreffejdev.vercel.app/) • [Repositório](#)
+  `->` [Ver online](https://nosreffejdev.vercel.app/) • [Repositório](https://github.com/nosreffej1/Portf-lio-em-desenvolvimento)
 
 - 🟢 **Landing page - Consultoria em desenvolvimento (Nosreffej Tech)**  
   Layout escuro, cards com glow, foco em posicionamento de consultoria para times de desenvolvimento.  
-  `->` [Ver online](#) • [Repositório](#)
+  `->` [Ver online](https://nosreffej1.github.io/NosreffejTech/) • [Repositório](https://github.com/nosreffej1/NosreffejTech)
 
-- 🟣 **BoostFlow** – página de infoproduto voltada para automação de processos digitais  
-  `->` [Ver online](#) • [Repositório](#)
+- 🟣 **DevLaunch Pro** – página de infoproduto voltada para desenvolvedores  
+  `->` [Ver online](https://nosreffej1.github.io/DevLaunch-Pro/) • [Repositório](https://github.com/nosreffej1/DevLaunch-Pro)
 
 - 🧡 **FitTech Lab** – landing page de programa de treinos inteligentes guiados por dados  
-  `->` [Ver online](#) • [Repositório](#)
+  `->` [Ver online](https://nosreffej1.github.io/FitTechLab/) • [Repositório](https://github.com/nosreffej1/FitTechLab)
 
 ---
 
