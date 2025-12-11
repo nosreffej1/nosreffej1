@@ -69,7 +69,7 @@ Atualmente atuo com **PHP / Yii2, JavaScript e automação de processos com BPMN
 > *(Substitua os links abaixo pelos repositórios/páginas reais quando subir os projetos)*
 
 - 🔵 **Portfólio pessoal** – página para apresentar meus projetos, experiências e serviços  
-  `->` [Ver online](#) • [Repositório](#)
+  `->` [Ver online]([#](https://nosreffejdev.vercel.app/)) • [Repositório](#)
 
 - 🟢 **Landing page - Consultoria em desenvolvimento (Nosreffej Tech)**  
   Layout escuro, cards com glow, foco em posicionamento de consultoria para times de desenvolvimento.  
